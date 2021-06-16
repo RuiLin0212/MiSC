@@ -120,4 +120,6 @@ The following tables show estimation errors (%) of pure and mixed strategies on 
 | **TenALS** | 23.15 | 9.26 | 9.26 | 6.48 | 6.48 |
 | **Tucker** | 19.91 | 8.33 | 9.26 | **4.63** | **4.63** |
 
+## License
 
+MiSC is released under MIT License.
